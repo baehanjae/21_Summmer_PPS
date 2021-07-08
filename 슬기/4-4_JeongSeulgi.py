@@ -18,7 +18,6 @@ for i in range(n):
 for i in realans:
     print(i) #한번에 출력
 
-
 '''
 4-4 부녀회장이 될테야 
 https://www.acmicpc.net/problem/2775
