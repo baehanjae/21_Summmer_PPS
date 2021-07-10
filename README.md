@@ -1,5 +1,6 @@
 # 21_Summmer_PPS
-<u>21 여름 PPS 피어 리뷰를 위하 repository 입니다.</u>
+<u>21 여름 PPS 피어 리뷰를 위한 repository 입니다.</u>
+[캠프 사이트](https://docs.google.com/spreadsheets/d/1wUUq000O4lY8_fBSutpsHL0Ylc5DNsCSZ5aXzgylaAk/edit#gid=0)
 
 ## 기본 원칙
 
