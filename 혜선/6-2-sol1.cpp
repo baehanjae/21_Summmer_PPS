@@ -15,7 +15,7 @@ int main(){
 	cout<<"<";
 	i=1;
 	while(n-1){
-		// i 나누기 k의 나머지가 0이 아닐 때 front 값을 다시 큐에 넣고 기 값은 pop
+		// i 나누기 k의 나머지가 0이 아닐 때 front 값을 다시 큐에 넣고 기존 값은 pop
 		if ( i % k !=0){
 			a.push(a.front());
 			a.pop();
