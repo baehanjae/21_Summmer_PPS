@@ -5,12 +5,12 @@ using namespace std;
 
 int main(){
 	queue <int> a;
-	int n, k, i ;
+	int n, k, i;
 	cin >> n ;
 	cin >> k ;
 
 	//1~n의 숫자를 차례로 큐에 넣어줌 
-	for (int i=1 ; i<=n ;i++)
+	for (i=1 ; i<=n ;i++)
 	 	a.push(i);
 	cout<<"<";
 	i=1;
