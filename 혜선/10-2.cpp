@@ -37,6 +37,6 @@ class Solution {
 };
 
 //9-2부터 문제가 너무 어려워요ㅠㅠ
-//https://zxi.mytechroad.com/blog/tree/leetcode-897-increasing-order-search-tree/ 
+//출처: https://zxi.mytechroad.com/blog/tree/leetcode-897-increasing-order-search-tree/ 
 //보면서 최대한 이해를 해보았는데, 완전히 깨달았는지는 잘 모르겠습니다
 //이번주에 더 공부하겠습니다 
