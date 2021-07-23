@@ -7,13 +7,3 @@ class Solution:
         return nums1 
         
 
-
-sol1=Solution
-print(Solution.merge(sol1,[1,2,3,0,0,0],3,[2,5,6],3))
-
-
-sol3=Solution
-print(Solution.merge(sol3,[1,2,3,4,0,0,0,0],4,[1,4,5,7],4))
-
-sol4=Solution
-print(Solution.merge(sol4,[0],0,[1],1))
