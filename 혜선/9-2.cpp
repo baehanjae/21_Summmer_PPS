@@ -28,15 +28,3 @@ class Solution{
             return max(left,right)+1;
         }
 };
-
-int main(){
-    TreeNode* root = new TreeNode(1);
-    root->left = new TreeNode(2);
-    root->right = new TreeNode(3);
-    root->left->left = new TreeNode(4);
-    root->left->right = new TreeNode(5);
-    Solution sol1;
-
-    cout << "The diameter of the tree is " << sol1.diameterOfBinaryTree(root);
-    return 0;
-}
