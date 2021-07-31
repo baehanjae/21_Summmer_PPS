@@ -1,0 +1,7 @@
+#SELECT에서 정답으로 원하는 컬럼을 다 추출
+#person 테이블로 Address를 LEFT JOIN 
+#LEFT JOIN의 조건:PersonID
+
+SELECT FirstName,LastName,City,State
+FROM Person LEFT JOIN Address
+ON Address.PersonID=Person.PersonID
