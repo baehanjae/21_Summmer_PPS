@@ -11,5 +11,7 @@ for m in range(0,n+1) : #1원부터 지불해야 하는 n원까지
             dp[m]=dp[m-c]+1
 print(dp[-1])
 
-
+"""
+출처: https://cieske.tistory.com/11
+"""
     
